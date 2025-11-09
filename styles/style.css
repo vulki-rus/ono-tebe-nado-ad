@@ -137,11 +137,6 @@
   list-style: none;
 }
 
-.lots_card_text {
-  text-decoration: none;
-  color: #fff;
-}
-
 .lots_card {
   position: relative;
   width: 334px;
@@ -242,7 +237,7 @@
 .about_text_block_text {
   font-size: 20px;
   line-height: 24px;
-  margin-top: 100px
+  margin-top: 100px;
 }
 
 .about_text_block_text_1 {
@@ -250,7 +245,7 @@
 }
 
 .about_text_block_text_2 {
-  margin-top:24px
+  margin-top: 24px;
 }
 
 /* footer */
